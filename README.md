@@ -8,9 +8,9 @@ Inżynieria Oprogramowania - *grupa 4* - pismo _pochylone_ i **pogrubione**
 ## To jest nagłówek drugiego poziomu.
 
 
-1.Ala
-2.ma
-3.kota
+1. Ala
+2. ma
+3. kota
   *burego
   *w szare paski
   
